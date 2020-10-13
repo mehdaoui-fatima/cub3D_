@@ -1,0 +1,29 @@
+
+
+     F 4,5,7  
+     C 1,2,3 
+R     17  78
+
+NO ./path_to_the_north_texture 
+SO ./path_to_the_south_texture
+WE ./path_to_the_west_texture
+EA ./path_to_the_east_texture
+S ./path_to_the_sprite_texture
+
+   123    456    789
+   1111110000
+111111111111110000000000000000111111111 1111
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 000       
